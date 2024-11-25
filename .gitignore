@@ -1,0 +1,5 @@
+Server/build
+Server/GameServer/build
+Server/GameServer/.vscode
+Server/GameServer/GameServer
+Server/GameServer/TEST*

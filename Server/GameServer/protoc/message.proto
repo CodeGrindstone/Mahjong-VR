@@ -1,0 +1,48 @@
+syntax = "proto3";
+
+package message;
+
+// 定义 VerifyService 服务，其中包含用于验证码验证的 RPC 方法
+service VerifyService {
+  // 定义名为 GetVerifyCode 的 RPC 方法，接收 GetVarifyReq 消息并返回 GetVarifyRsp 消息
+  rpc GetVerifyCode (GetVerifyReq) returns (GetVerifyRsp) {}
+}
+
+// 定义 GetVarifyCode RPC 方法的请求消息
+message GetVerifyReq {
+  string email = 1; // 要发送验证码的电子邮件地址
+}
+
+// 定义 GetVarifyCode RPC 方法的响应消息
+message GetVerifyRsp {
+  int32 error = 1;  // 错误码 (0 表示成功，非零表示失败)
+  string email = 2; // 与请求相关联的电子邮件地址，通常回传以确认
+  string code = 3;  // 为该电子邮件地址生成的验证码
+}
+
+message GetChatServerReq {
+  int32 uid = 1;
+}
+
+message GetChatServerRsp {
+  int32 error = 1;
+  string host = 2;
+  string port = 3;
+  string token = 4;
+}
+
+message LoginReq{
+  int32 uid = 1;
+  string token = 2;
+}
+
+message LoginRsp{
+  int32 error = 1;
+  int32 uid = 2;
+  string token = 3;
+}
+
+service StatusService {
+    rpc GetChatServer (GetChatServerReq) returns (GetChatServerRsp) {}
+    rpc Login(LoginReq) returns(LoginRsp){}
+}
