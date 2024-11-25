@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 229cf9fc5c2e0c84198daca6577d0441
+timeCreated: 1509009448
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93166
+  packageName: 3D Mahjong Pack
+  packageVersion: 1.1
+  assetPath: Assets/Mahjong Pack/Prefabs/Mahjong_green/fa.prefab
+  uploadId: 240782

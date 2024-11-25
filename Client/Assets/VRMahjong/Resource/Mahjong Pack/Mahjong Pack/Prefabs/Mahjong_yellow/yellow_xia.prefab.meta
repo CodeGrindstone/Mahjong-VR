@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: cfee8429c9d5a8946a5d66866424d523
+timeCreated: 1509010182
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93166
+  packageName: 3D Mahjong Pack
+  packageVersion: 1.1
+  assetPath: Assets/Mahjong Pack/Prefabs/Mahjong_yellow/yellow_xia.prefab
+  uploadId: 240782

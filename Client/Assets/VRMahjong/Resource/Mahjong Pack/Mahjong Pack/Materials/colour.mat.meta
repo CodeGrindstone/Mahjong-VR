@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e32f83272b0b5b44898b38b3b4cbdf4a
+timeCreated: 1508853869
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93166
+  packageName: 3D Mahjong Pack
+  packageVersion: 1.1
+  assetPath: Assets/Mahjong Pack/Materials/colour.mat
+  uploadId: 240782

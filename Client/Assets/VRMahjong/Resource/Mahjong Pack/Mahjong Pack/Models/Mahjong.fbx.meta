@@ -1,0 +1,1368 @@
+fileFormatVersion: 2
+guid: ac75a9e7b1dc5d6469b3794fb2aa9443
+timeCreated: 1508853869
+licenseType: Store
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: pCube1
+    100004: pCube10
+    100006: pCube11
+    100008: pCube12
+    100010: pCube13
+    100012: pCube14
+    100014: pCube15
+    100016: pCube16
+    100018: pCube17
+    100020: pCube18
+    100022: pCube19
+    100024: pCube20
+    100026: pCube21
+    100028: pCube22
+    100030: pCube23
+    100032: pCube24
+    100034: pCube25
+    100036: pCube26
+    100038: pCube27
+    100040: pCube28
+    100042: pCube29
+    100044: pCube30
+    100046: pCube31
+    100048: pCube32
+    100050: pCube33
+    100052: pCube34
+    100054: pCube35
+    100056: pCube36
+    100058: pCube37
+    100060: pCube38
+    100062: pCube4
+    100064: pCube40
+    100066: pCube41
+    100068: pCube42
+    100070: pCube45
+    100072: pCube46
+    100074: pCube47
+    100076: pCube48
+    100078: pCube5
+    100080: pCube6
+    100082: pCube7
+    100084: pCube8
+    100086: pCube9
+    100088: bai
+    100090: bai 1
+    100092: bai 2
+    100094: bei
+    100096: bei 1
+    100098: bei 2
+    100100: bing1
+    100102: bing1 1
+    100104: bing1 2
+    100106: bing2
+    100108: bing2 1
+    100110: bing2 2
+    100112: bing3
+    100114: bing3 1
+    100116: bing3 2
+    100118: bing4
+    100120: bing4 1
+    100122: bing4 2
+    100124: bing5
+    100126: bing5 1
+    100128: bing5 2
+    100130: bing6
+    100132: bing6 1
+    100134: bing6 2
+    100136: bing7
+    100138: bing7 1
+    100140: bing7 2
+    100142: bing8
+    100144: bing8 1
+    100146: bing8 2
+    100148: bing9
+    100150: bing9 1
+    100152: bing9 2
+    100154: chun
+    100156: chun 1
+    100158: chun 2
+    100160: Dice
+    100162: dong
+    100164: dong 1
+    100166: dong 2
+    100168: dong1
+    100170: dong1 1
+    100172: dong1 2
+    100174: fa
+    100176: fa 1
+    100178: fa 2
+    100180: ju
+    100182: ju 1
+    100184: ju 2
+    100186: lan
+    100188: lan 1
+    100190: lan 2
+    100192: Mahjong_green
+    100194: Mahjong_red
+    100196: Mahjong_yellow
+    100198: mei
+    100200: mei 1
+    100202: mei 2
+    100204: nan
+    100206: nan 1
+    100208: nan 2
+    100210: qiu
+    100212: qiu 1
+    100214: qiu 2
+    100216: tiao1
+    100218: tiao1 1
+    100220: tiao1 2
+    100222: tiao2
+    100224: tiao2 1
+    100226: tiao2 2
+    100228: tiao3
+    100230: tiao3 1
+    100232: tiao3 2
+    100234: tiao4
+    100236: tiao4 1
+    100238: tiao4 2
+    100240: tiao5
+    100242: tiao5 1
+    100244: tiao5 2
+    100246: tiao6
+    100248: tiao6 1
+    100250: tiao6 2
+    100252: tiao7
+    100254: tiao7 1
+    100256: tiao7 2
+    100258: tiao8
+    100260: tiao8 1
+    100262: tiao8 2
+    100264: tiao9
+    100266: tiao9 1
+    100268: tiao9 2
+    100270: wan1
+    100272: wan1 1
+    100274: wan1 2
+    100276: wan2
+    100278: wan2 1
+    100280: wan2 2
+    100282: wan3
+    100284: wan3 1
+    100286: wan3 2
+    100288: wan4
+    100290: wan4 1
+    100292: wan4 2
+    100294: wan5
+    100296: wan5 1
+    100298: wan5 2
+    100300: wan6
+    100302: wan6 1
+    100304: wan6 2
+    100306: wan7
+    100308: wan7 1
+    100310: wan7 2
+    100312: wan8
+    100314: wan8 1
+    100316: wan8 2
+    100318: wan9
+    100320: wan9 1
+    100322: wan9 2
+    100324: xi
+    100326: xi 1
+    100328: xi 2
+    100330: xia
+    100332: xia 1
+    100334: xia 2
+    100336: zhong
+    100338: zhong 1
+    100340: zhong 2
+    100342: zhu
+    100344: zhu 1
+    100346: zhu 2
+    100348: red_bai
+    100350: red_bei
+    100352: red_bing1
+    100354: red_bing2
+    100356: red_bing3
+    100358: red_bing4
+    100360: red_bing5
+    100362: red_bing6
+    100364: red_bing7
+    100366: red_bing8
+    100368: red_bing9
+    100370: red_chun
+    100372: red_dong
+    100374: red_dong1
+    100376: red_fa
+    100378: red_ju
+    100380: red_lan
+    100382: red_mei
+    100384: red_nan
+    100386: red_qiu
+    100388: red_tiao1
+    100390: red_tiao2
+    100392: red_tiao3
+    100394: red_tiao4
+    100396: red_tiao5
+    100398: red_tiao6
+    100400: red_tiao7
+    100402: red_tiao8
+    100404: red_tiao9
+    100406: red_wan1
+    100408: red_wan2
+    100410: red_wan3
+    100412: red_wan4
+    100414: red_wan5
+    100416: red_wan6
+    100418: red_wan7
+    100420: red_wan8
+    100422: red_wan9
+    100424: red_xi
+    100426: red_xia
+    100428: red_zhong
+    100430: red_zhu
+    100432: yellow_bai
+    100434: yellow_bei
+    100436: yellow_bing1
+    100438: yellow_bing2
+    100440: yellow_bing3
+    100442: yellow_bing4
+    100444: yellow_bing5
+    100446: yellow_bing6
+    100448: yellow_bing7
+    100450: yellow_bing8
+    100452: yellow_bing9
+    100454: yellow_chun
+    100456: yellow_dong
+    100458: yellow_dong1
+    100460: yellow_fa
+    100462: yellow_ju
+    100464: yellow_lan
+    100466: yellow_mei
+    100468: yellow_nan
+    100470: yellow_qiu
+    100472: yellow_tiao1
+    100474: yellow_tiao2
+    100476: yellow_tiao3
+    100478: yellow_tiao4
+    100480: yellow_tiao5
+    100482: yellow_tiao6
+    100484: yellow_tiao7
+    100486: yellow_tiao8
+    100488: yellow_tiao9
+    100490: yellow_wan1
+    100492: yellow_wan2
+    100494: yellow_wan3
+    100496: yellow_wan4
+    100498: yellow_wan5
+    100500: yellow_wan6
+    100502: yellow_wan7
+    100504: yellow_wan8
+    100506: yellow_wan9
+    100508: yellow_xi
+    100510: yellow_xia
+    100512: yellow_zhong
+    100514: yellow_zhu
+    400000: //RootNode
+    400002: pCube1
+    400004: pCube10
+    400006: pCube11
+    400008: pCube12
+    400010: pCube13
+    400012: pCube14
+    400014: pCube15
+    400016: pCube16
+    400018: pCube17
+    400020: pCube18
+    400022: pCube19
+    400024: pCube20
+    400026: pCube21
+    400028: pCube22
+    400030: pCube23
+    400032: pCube24
+    400034: pCube25
+    400036: pCube26
+    400038: pCube27
+    400040: pCube28
+    400042: pCube29
+    400044: pCube30
+    400046: pCube31
+    400048: pCube32
+    400050: pCube33
+    400052: pCube34
+    400054: pCube35
+    400056: pCube36
+    400058: pCube37
+    400060: pCube38
+    400062: pCube4
+    400064: pCube40
+    400066: pCube41
+    400068: pCube42
+    400070: pCube45
+    400072: pCube46
+    400074: pCube47
+    400076: pCube48
+    400078: pCube5
+    400080: pCube6
+    400082: pCube7
+    400084: pCube8
+    400086: pCube9
+    400088: bai
+    400090: bai 1
+    400092: bai 2
+    400094: bei
+    400096: bei 1
+    400098: bei 2
+    400100: bing1
+    400102: bing1 1
+    400104: bing1 2
+    400106: bing2
+    400108: bing2 1
+    400110: bing2 2
+    400112: bing3
+    400114: bing3 1
+    400116: bing3 2
+    400118: bing4
+    400120: bing4 1
+    400122: bing4 2
+    400124: bing5
+    400126: bing5 1
+    400128: bing5 2
+    400130: bing6
+    400132: bing6 1
+    400134: bing6 2
+    400136: bing7
+    400138: bing7 1
+    400140: bing7 2
+    400142: bing8
+    400144: bing8 1
+    400146: bing8 2
+    400148: bing9
+    400150: bing9 1
+    400152: bing9 2
+    400154: chun
+    400156: chun 1
+    400158: chun 2
+    400160: Dice
+    400162: dong
+    400164: dong 1
+    400166: dong 2
+    400168: dong1
+    400170: dong1 1
+    400172: dong1 2
+    400174: fa
+    400176: fa 1
+    400178: fa 2
+    400180: ju
+    400182: ju 1
+    400184: ju 2
+    400186: lan
+    400188: lan 1
+    400190: lan 2
+    400192: Mahjong_green
+    400194: Mahjong_red
+    400196: Mahjong_yellow
+    400198: mei
+    400200: mei 1
+    400202: mei 2
+    400204: nan
+    400206: nan 1
+    400208: nan 2
+    400210: qiu
+    400212: qiu 1
+    400214: qiu 2
+    400216: tiao1
+    400218: tiao1 1
+    400220: tiao1 2
+    400222: tiao2
+    400224: tiao2 1
+    400226: tiao2 2
+    400228: tiao3
+    400230: tiao3 1
+    400232: tiao3 2
+    400234: tiao4
+    400236: tiao4 1
+    400238: tiao4 2
+    400240: tiao5
+    400242: tiao5 1
+    400244: tiao5 2
+    400246: tiao6
+    400248: tiao6 1
+    400250: tiao6 2
+    400252: tiao7
+    400254: tiao7 1
+    400256: tiao7 2
+    400258: tiao8
+    400260: tiao8 1
+    400262: tiao8 2
+    400264: tiao9
+    400266: tiao9 1
+    400268: tiao9 2
+    400270: wan1
+    400272: wan1 1
+    400274: wan1 2
+    400276: wan2
+    400278: wan2 1
+    400280: wan2 2
+    400282: wan3
+    400284: wan3 1
+    400286: wan3 2
+    400288: wan4
+    400290: wan4 1
+    400292: wan4 2
+    400294: wan5
+    400296: wan5 1
+    400298: wan5 2
+    400300: wan6
+    400302: wan6 1
+    400304: wan6 2
+    400306: wan7
+    400308: wan7 1
+    400310: wan7 2
+    400312: wan8
+    400314: wan8 1
+    400316: wan8 2
+    400318: wan9
+    400320: wan9 1
+    400322: wan9 2
+    400324: xi
+    400326: xi 1
+    400328: xi 2
+    400330: xia
+    400332: xia 1
+    400334: xia 2
+    400336: zhong
+    400338: zhong 1
+    400340: zhong 2
+    400342: zhu
+    400344: zhu 1
+    400346: zhu 2
+    400348: red_bai
+    400350: red_bei
+    400352: red_bing1
+    400354: red_bing2
+    400356: red_bing3
+    400358: red_bing4
+    400360: red_bing5
+    400362: red_bing6
+    400364: red_bing7
+    400366: red_bing8
+    400368: red_bing9
+    400370: red_chun
+    400372: red_dong
+    400374: red_dong1
+    400376: red_fa
+    400378: red_ju
+    400380: red_lan
+    400382: red_mei
+    400384: red_nan
+    400386: red_qiu
+    400388: red_tiao1
+    400390: red_tiao2
+    400392: red_tiao3
+    400394: red_tiao4
+    400396: red_tiao5
+    400398: red_tiao6
+    400400: red_tiao7
+    400402: red_tiao8
+    400404: red_tiao9
+    400406: red_wan1
+    400408: red_wan2
+    400410: red_wan3
+    400412: red_wan4
+    400414: red_wan5
+    400416: red_wan6
+    400418: red_wan7
+    400420: red_wan8
+    400422: red_wan9
+    400424: red_xi
+    400426: red_xia
+    400428: red_zhong
+    400430: red_zhu
+    400432: yellow_bai
+    400434: yellow_bei
+    400436: yellow_bing1
+    400438: yellow_bing2
+    400440: yellow_bing3
+    400442: yellow_bing4
+    400444: yellow_bing5
+    400446: yellow_bing6
+    400448: yellow_bing7
+    400450: yellow_bing8
+    400452: yellow_bing9
+    400454: yellow_chun
+    400456: yellow_dong
+    400458: yellow_dong1
+    400460: yellow_fa
+    400462: yellow_ju
+    400464: yellow_lan
+    400466: yellow_mei
+    400468: yellow_nan
+    400470: yellow_qiu
+    400472: yellow_tiao1
+    400474: yellow_tiao2
+    400476: yellow_tiao3
+    400478: yellow_tiao4
+    400480: yellow_tiao5
+    400482: yellow_tiao6
+    400484: yellow_tiao7
+    400486: yellow_tiao8
+    400488: yellow_tiao9
+    400490: yellow_wan1
+    400492: yellow_wan2
+    400494: yellow_wan3
+    400496: yellow_wan4
+    400498: yellow_wan5
+    400500: yellow_wan6
+    400502: yellow_wan7
+    400504: yellow_wan8
+    400506: yellow_wan9
+    400508: yellow_xi
+    400510: yellow_xia
+    400512: yellow_zhong
+    400514: yellow_zhu
+    2300000: pCube1
+    2300002: pCube10
+    2300004: pCube11
+    2300006: pCube12
+    2300008: pCube13
+    2300010: pCube14
+    2300012: pCube15
+    2300014: pCube16
+    2300016: pCube17
+    2300018: pCube18
+    2300020: pCube19
+    2300022: pCube20
+    2300024: pCube21
+    2300026: pCube22
+    2300028: pCube23
+    2300030: pCube24
+    2300032: pCube25
+    2300034: pCube26
+    2300036: pCube27
+    2300038: pCube28
+    2300040: pCube29
+    2300042: pCube30
+    2300044: pCube31
+    2300046: pCube32
+    2300048: pCube33
+    2300050: pCube34
+    2300052: pCube35
+    2300054: pCube36
+    2300056: pCube37
+    2300058: pCube38
+    2300060: pCube4
+    2300062: pCube40
+    2300064: pCube41
+    2300066: pCube42
+    2300068: pCube45
+    2300070: pCube46
+    2300072: pCube47
+    2300074: pCube48
+    2300076: pCube5
+    2300078: pCube6
+    2300080: pCube7
+    2300082: pCube8
+    2300084: pCube9
+    2300086: bai
+    2300088: bai 1
+    2300090: bai 2
+    2300092: bei
+    2300094: bei 1
+    2300096: bei 2
+    2300098: bing1
+    2300100: bing1 1
+    2300102: bing1 2
+    2300104: bing2
+    2300106: bing2 1
+    2300108: bing2 2
+    2300110: bing3
+    2300112: bing3 1
+    2300114: bing3 2
+    2300116: bing4
+    2300118: bing4 1
+    2300120: bing4 2
+    2300122: bing5
+    2300124: bing5 1
+    2300126: bing5 2
+    2300128: bing6
+    2300130: bing6 1
+    2300132: bing6 2
+    2300134: bing7
+    2300136: bing7 1
+    2300138: bing7 2
+    2300140: bing8
+    2300142: bing8 1
+    2300144: bing8 2
+    2300146: bing9
+    2300148: bing9 1
+    2300150: bing9 2
+    2300152: chun
+    2300154: chun 1
+    2300156: chun 2
+    2300158: Dice
+    2300160: dong
+    2300162: dong 1
+    2300164: dong 2
+    2300166: dong1
+    2300168: dong1 1
+    2300170: dong1 2
+    2300172: fa
+    2300174: fa 1
+    2300176: fa 2
+    2300178: ju
+    2300180: ju 1
+    2300182: ju 2
+    2300184: lan
+    2300186: lan 1
+    2300188: lan 2
+    2300190: mei
+    2300192: mei 1
+    2300194: mei 2
+    2300196: nan
+    2300198: nan 1
+    2300200: nan 2
+    2300202: qiu
+    2300204: qiu 1
+    2300206: qiu 2
+    2300208: tiao1
+    2300210: tiao1 1
+    2300212: tiao1 2
+    2300214: tiao2
+    2300216: tiao2 1
+    2300218: tiao2 2
+    2300220: tiao3
+    2300222: tiao3 1
+    2300224: tiao3 2
+    2300226: tiao4
+    2300228: tiao4 1
+    2300230: tiao4 2
+    2300232: tiao5
+    2300234: tiao5 1
+    2300236: tiao5 2
+    2300238: tiao6
+    2300240: tiao6 1
+    2300242: tiao6 2
+    2300244: tiao7
+    2300246: tiao7 1
+    2300248: tiao7 2
+    2300250: tiao8
+    2300252: tiao8 1
+    2300254: tiao8 2
+    2300256: tiao9
+    2300258: tiao9 1
+    2300260: tiao9 2
+    2300262: wan1
+    2300264: wan1 1
+    2300266: wan1 2
+    2300268: wan2
+    2300270: wan2 1
+    2300272: wan2 2
+    2300274: wan3
+    2300276: wan3 1
+    2300278: wan3 2
+    2300280: wan4
+    2300282: wan4 1
+    2300284: wan4 2
+    2300286: wan5
+    2300288: wan5 1
+    2300290: wan5 2
+    2300292: wan6
+    2300294: wan6 1
+    2300296: wan6 2
+    2300298: wan7
+    2300300: wan7 1
+    2300302: wan7 2
+    2300304: wan8
+    2300306: wan8 1
+    2300308: wan8 2
+    2300310: wan9
+    2300312: wan9 1
+    2300314: wan9 2
+    2300316: xi
+    2300318: xi 1
+    2300320: xi 2
+    2300322: xia
+    2300324: xia 1
+    2300326: xia 2
+    2300328: zhong
+    2300330: zhong 1
+    2300332: zhong 2
+    2300334: zhu
+    2300336: zhu 1
+    2300338: zhu 2
+    2300340: red_bai
+    2300342: red_bei
+    2300344: red_bing1
+    2300346: red_bing2
+    2300348: red_bing3
+    2300350: red_bing4
+    2300352: red_bing5
+    2300354: red_bing6
+    2300356: red_bing7
+    2300358: red_bing8
+    2300360: red_bing9
+    2300362: red_chun
+    2300364: red_dong
+    2300366: red_dong1
+    2300368: red_fa
+    2300370: red_ju
+    2300372: red_lan
+    2300374: red_mei
+    2300376: red_nan
+    2300378: red_qiu
+    2300380: red_tiao1
+    2300382: red_tiao2
+    2300384: red_tiao3
+    2300386: red_tiao4
+    2300388: red_tiao5
+    2300390: red_tiao6
+    2300392: red_tiao7
+    2300394: red_tiao8
+    2300396: red_tiao9
+    2300398: red_wan1
+    2300400: red_wan2
+    2300402: red_wan3
+    2300404: red_wan4
+    2300406: red_wan5
+    2300408: red_wan6
+    2300410: red_wan7
+    2300412: red_wan8
+    2300414: red_wan9
+    2300416: red_xi
+    2300418: red_xia
+    2300420: red_zhong
+    2300422: red_zhu
+    2300424: yellow_bai
+    2300426: yellow_bei
+    2300428: yellow_bing1
+    2300430: yellow_bing2
+    2300432: yellow_bing3
+    2300434: yellow_bing4
+    2300436: yellow_bing5
+    2300438: yellow_bing6
+    2300440: yellow_bing7
+    2300442: yellow_bing8
+    2300444: yellow_bing9
+    2300446: yellow_chun
+    2300448: yellow_dong
+    2300450: yellow_dong1
+    2300452: yellow_fa
+    2300454: yellow_ju
+    2300456: yellow_lan
+    2300458: yellow_mei
+    2300460: yellow_nan
+    2300462: yellow_qiu
+    2300464: yellow_tiao1
+    2300466: yellow_tiao2
+    2300468: yellow_tiao3
+    2300470: yellow_tiao4
+    2300472: yellow_tiao5
+    2300474: yellow_tiao6
+    2300476: yellow_tiao7
+    2300478: yellow_tiao8
+    2300480: yellow_tiao9
+    2300482: yellow_wan1
+    2300484: yellow_wan2
+    2300486: yellow_wan3
+    2300488: yellow_wan4
+    2300490: yellow_wan5
+    2300492: yellow_wan6
+    2300494: yellow_wan7
+    2300496: yellow_wan8
+    2300498: yellow_wan9
+    2300500: yellow_xi
+    2300502: yellow_xia
+    2300504: yellow_zhong
+    2300506: yellow_zhu
+    3300000: pCube1
+    3300002: pCube10
+    3300004: pCube11
+    3300006: pCube12
+    3300008: pCube13
+    3300010: pCube14
+    3300012: pCube15
+    3300014: pCube16
+    3300016: pCube17
+    3300018: pCube18
+    3300020: pCube19
+    3300022: pCube20
+    3300024: pCube21
+    3300026: pCube22
+    3300028: pCube23
+    3300030: pCube24
+    3300032: pCube25
+    3300034: pCube26
+    3300036: pCube27
+    3300038: pCube28
+    3300040: pCube29
+    3300042: pCube30
+    3300044: pCube31
+    3300046: pCube32
+    3300048: pCube33
+    3300050: pCube34
+    3300052: pCube35
+    3300054: pCube36
+    3300056: pCube37
+    3300058: pCube38
+    3300060: pCube4
+    3300062: pCube40
+    3300064: pCube41
+    3300066: pCube42
+    3300068: pCube45
+    3300070: pCube46
+    3300072: pCube47
+    3300074: pCube48
+    3300076: pCube5
+    3300078: pCube6
+    3300080: pCube7
+    3300082: pCube8
+    3300084: pCube9
+    3300086: bai
+    3300088: bai 1
+    3300090: bai 2
+    3300092: bei
+    3300094: bei 1
+    3300096: bei 2
+    3300098: bing1
+    3300100: bing1 1
+    3300102: bing1 2
+    3300104: bing2
+    3300106: bing2 1
+    3300108: bing2 2
+    3300110: bing3
+    3300112: bing3 1
+    3300114: bing3 2
+    3300116: bing4
+    3300118: bing4 1
+    3300120: bing4 2
+    3300122: bing5
+    3300124: bing5 1
+    3300126: bing5 2
+    3300128: bing6
+    3300130: bing6 1
+    3300132: bing6 2
+    3300134: bing7
+    3300136: bing7 1
+    3300138: bing7 2
+    3300140: bing8
+    3300142: bing8 1
+    3300144: bing8 2
+    3300146: bing9
+    3300148: bing9 1
+    3300150: bing9 2
+    3300152: chun
+    3300154: chun 1
+    3300156: chun 2
+    3300158: Dice
+    3300160: dong
+    3300162: dong 1
+    3300164: dong 2
+    3300166: dong1
+    3300168: dong1 1
+    3300170: dong1 2
+    3300172: fa
+    3300174: fa 1
+    3300176: fa 2
+    3300178: ju
+    3300180: ju 1
+    3300182: ju 2
+    3300184: lan
+    3300186: lan 1
+    3300188: lan 2
+    3300190: mei
+    3300192: mei 1
+    3300194: mei 2
+    3300196: nan
+    3300198: nan 1
+    3300200: nan 2
+    3300202: qiu
+    3300204: qiu 1
+    3300206: qiu 2
+    3300208: tiao1
+    3300210: tiao1 1
+    3300212: tiao1 2
+    3300214: tiao2
+    3300216: tiao2 1
+    3300218: tiao2 2
+    3300220: tiao3
+    3300222: tiao3 1
+    3300224: tiao3 2
+    3300226: tiao4
+    3300228: tiao4 1
+    3300230: tiao4 2
+    3300232: tiao5
+    3300234: tiao5 1
+    3300236: tiao5 2
+    3300238: tiao6
+    3300240: tiao6 1
+    3300242: tiao6 2
+    3300244: tiao7
+    3300246: tiao7 1
+    3300248: tiao7 2
+    3300250: tiao8
+    3300252: tiao8 1
+    3300254: tiao8 2
+    3300256: tiao9
+    3300258: tiao9 1
+    3300260: tiao9 2
+    3300262: wan1
+    3300264: wan1 1
+    3300266: wan1 2
+    3300268: wan2
+    3300270: wan2 1
+    3300272: wan2 2
+    3300274: wan3
+    3300276: wan3 1
+    3300278: wan3 2
+    3300280: wan4
+    3300282: wan4 1
+    3300284: wan4 2
+    3300286: wan5
+    3300288: wan5 1
+    3300290: wan5 2
+    3300292: wan6
+    3300294: wan6 1
+    3300296: wan6 2
+    3300298: wan7
+    3300300: wan7 1
+    3300302: wan7 2
+    3300304: wan8
+    3300306: wan8 1
+    3300308: wan8 2
+    3300310: wan9
+    3300312: wan9 1
+    3300314: wan9 2
+    3300316: xi
+    3300318: xi 1
+    3300320: xi 2
+    3300322: xia
+    3300324: xia 1
+    3300326: xia 2
+    3300328: zhong
+    3300330: zhong 1
+    3300332: zhong 2
+    3300334: zhu
+    3300336: zhu 1
+    3300338: zhu 2
+    3300340: red_bai
+    3300342: red_bei
+    3300344: red_bing1
+    3300346: red_bing2
+    3300348: red_bing3
+    3300350: red_bing4
+    3300352: red_bing5
+    3300354: red_bing6
+    3300356: red_bing7
+    3300358: red_bing8
+    3300360: red_bing9
+    3300362: red_chun
+    3300364: red_dong
+    3300366: red_dong1
+    3300368: red_fa
+    3300370: red_ju
+    3300372: red_lan
+    3300374: red_mei
+    3300376: red_nan
+    3300378: red_qiu
+    3300380: red_tiao1
+    3300382: red_tiao2
+    3300384: red_tiao3
+    3300386: red_tiao4
+    3300388: red_tiao5
+    3300390: red_tiao6
+    3300392: red_tiao7
+    3300394: red_tiao8
+    3300396: red_tiao9
+    3300398: red_wan1
+    3300400: red_wan2
+    3300402: red_wan3
+    3300404: red_wan4
+    3300406: red_wan5
+    3300408: red_wan6
+    3300410: red_wan7
+    3300412: red_wan8
+    3300414: red_wan9
+    3300416: red_xi
+    3300418: red_xia
+    3300420: red_zhong
+    3300422: red_zhu
+    3300424: yellow_bai
+    3300426: yellow_bei
+    3300428: yellow_bing1
+    3300430: yellow_bing2
+    3300432: yellow_bing3
+    3300434: yellow_bing4
+    3300436: yellow_bing5
+    3300438: yellow_bing6
+    3300440: yellow_bing7
+    3300442: yellow_bing8
+    3300444: yellow_bing9
+    3300446: yellow_chun
+    3300448: yellow_dong
+    3300450: yellow_dong1
+    3300452: yellow_fa
+    3300454: yellow_ju
+    3300456: yellow_lan
+    3300458: yellow_mei
+    3300460: yellow_nan
+    3300462: yellow_qiu
+    3300464: yellow_tiao1
+    3300466: yellow_tiao2
+    3300468: yellow_tiao3
+    3300470: yellow_tiao4
+    3300472: yellow_tiao5
+    3300474: yellow_tiao6
+    3300476: yellow_tiao7
+    3300478: yellow_tiao8
+    3300480: yellow_tiao9
+    3300482: yellow_wan1
+    3300484: yellow_wan2
+    3300486: yellow_wan3
+    3300488: yellow_wan4
+    3300490: yellow_wan5
+    3300492: yellow_wan6
+    3300494: yellow_wan7
+    3300496: yellow_wan8
+    3300498: yellow_wan9
+    3300500: yellow_xi
+    3300502: yellow_xia
+    3300504: yellow_zhong
+    3300506: yellow_zhu
+    4300000: pCube1
+    4300002: pCube4
+    4300004: pCube5
+    4300006: pCube6
+    4300008: pCube7
+    4300010: pCube8
+    4300012: pCube9
+    4300014: pCube10
+    4300016: pCube11
+    4300018: pCube12
+    4300020: pCube13
+    4300022: pCube14
+    4300024: pCube15
+    4300026: pCube16
+    4300028: pCube17
+    4300030: pCube18
+    4300032: pCube19
+    4300034: pCube20
+    4300036: pCube21
+    4300038: pCube22
+    4300040: pCube23
+    4300042: pCube24
+    4300044: pCube25
+    4300046: pCube26
+    4300048: pCube27
+    4300050: pCube28
+    4300052: pCube29
+    4300054: pCube30
+    4300056: pCube31
+    4300058: pCube32
+    4300060: pCube33
+    4300062: pCube34
+    4300064: pCube35
+    4300066: pCube36
+    4300068: pCube37
+    4300070: pCube38
+    4300072: pCube40
+    4300074: pCube41
+    4300076: pCube42
+    4300078: pCube45
+    4300080: pCube46
+    4300082: pCube47
+    4300084: pCube48
+    4300086: wan1
+    4300088: wan2
+    4300090: wan3
+    4300092: wan4
+    4300094: wan5
+    4300096: wan6
+    4300098: wan7
+    4300100: wan8
+    4300102: wan9
+    4300104: tiao1
+    4300106: tiao2
+    4300108: tiao3
+    4300110: tiao4
+    4300112: tiao5
+    4300114: tiao6
+    4300116: tiao7
+    4300118: tiao8
+    4300120: tiao9
+    4300122: bing1
+    4300124: bing2
+    4300126: bing3
+    4300128: bing4
+    4300130: bing5
+    4300132: bing6
+    4300134: bing7
+    4300136: bing8
+    4300138: bing9
+    4300140: zhu
+    4300142: ju
+    4300144: bai
+    4300146: nan
+    4300148: fa
+    4300150: bei
+    4300152: zhong
+    4300154: xi
+    4300156: dong
+    4300158: lan
+    4300160: xia
+    4300162: dong1
+    4300164: mei
+    4300166: qiu
+    4300168: chun
+    4300170: Dice
+    4300172: wan1
+    4300174: wan2
+    4300176: wan3
+    4300178: wan4
+    4300180: wan5
+    4300182: wan6
+    4300184: wan7
+    4300186: wan8
+    4300188: wan9
+    4300190: tiao1
+    4300192: tiao2
+    4300194: tiao3
+    4300196: tiao4
+    4300198: tiao5
+    4300200: tiao6
+    4300202: tiao7
+    4300204: tiao8
+    4300206: tiao9
+    4300208: bing1
+    4300210: bing2
+    4300212: bing3
+    4300214: bing4
+    4300216: bing5
+    4300218: bing6
+    4300220: bing7
+    4300222: bing8
+    4300224: bing9
+    4300226: zhu
+    4300228: ju
+    4300230: bai
+    4300232: nan
+    4300234: fa
+    4300236: bei
+    4300238: zhong
+    4300240: xi
+    4300242: dong
+    4300244: lan
+    4300246: xia
+    4300248: dong1
+    4300250: mei
+    4300252: qiu
+    4300254: chun
+    4300256: wan1
+    4300258: wan2
+    4300260: wan3
+    4300262: wan4
+    4300264: wan5
+    4300266: wan6
+    4300268: wan7
+    4300270: wan8
+    4300272: wan9
+    4300274: tiao1
+    4300276: tiao2
+    4300278: tiao3
+    4300280: tiao4
+    4300282: tiao5
+    4300284: tiao6
+    4300286: tiao7
+    4300288: tiao8
+    4300290: tiao9
+    4300292: bing1
+    4300294: bing2
+    4300296: bing3
+    4300298: bing4
+    4300300: bing5
+    4300302: bing6
+    4300304: bing7
+    4300306: bing8
+    4300308: bing9
+    4300310: zhu
+    4300312: ju
+    4300314: bai
+    4300316: nan
+    4300318: fa
+    4300320: bei
+    4300322: zhong
+    4300324: xi
+    4300326: dong
+    4300328: lan
+    4300330: xia
+    4300332: dong1
+    4300334: mei
+    4300336: qiu
+    4300338: chun
+    4300340: red_wan1
+    4300342: red_wan2
+    4300344: red_wan3
+    4300346: red_wan4
+    4300348: red_wan5
+    4300350: red_wan6
+    4300352: red_wan7
+    4300354: red_wan8
+    4300356: red_wan9
+    4300358: red_tiao1
+    4300360: red_tiao2
+    4300362: red_tiao3
+    4300364: red_tiao4
+    4300366: red_tiao5
+    4300368: red_tiao6
+    4300370: red_tiao7
+    4300372: red_tiao8
+    4300374: red_tiao9
+    4300376: red_bing1
+    4300378: red_bing2
+    4300380: red_bing3
+    4300382: red_bing4
+    4300384: red_bing5
+    4300386: red_bing6
+    4300388: red_bing7
+    4300390: red_bing8
+    4300392: red_bing9
+    4300394: red_zhu
+    4300396: red_ju
+    4300398: red_bai
+    4300400: red_nan
+    4300402: red_fa
+    4300404: red_bei
+    4300406: red_zhong
+    4300408: red_xi
+    4300410: red_dong
+    4300412: red_lan
+    4300414: red_xia
+    4300416: red_dong1
+    4300418: red_mei
+    4300420: red_qiu
+    4300422: red_chun
+    4300424: yellow_wan1
+    4300426: yellow_wan2
+    4300428: yellow_wan3
+    4300430: yellow_wan4
+    4300432: yellow_wan5
+    4300434: yellow_wan6
+    4300436: yellow_wan7
+    4300438: yellow_wan8
+    4300440: yellow_wan9
+    4300442: yellow_tiao1
+    4300444: yellow_tiao2
+    4300446: yellow_tiao3
+    4300448: yellow_tiao4
+    4300450: yellow_tiao5
+    4300452: yellow_tiao6
+    4300454: yellow_tiao7
+    4300456: yellow_tiao8
+    4300458: yellow_tiao9
+    4300460: yellow_bing1
+    4300462: yellow_bing2
+    4300464: yellow_bing3
+    4300466: yellow_bing4
+    4300468: yellow_bing5
+    4300470: yellow_bing6
+    4300472: yellow_bing7
+    4300474: yellow_bing8
+    4300476: yellow_bing9
+    4300478: yellow_zhu
+    4300480: yellow_ju
+    4300482: yellow_bai
+    4300484: yellow_nan
+    4300486: yellow_fa
+    4300488: yellow_bei
+    4300490: yellow_zhong
+    4300492: yellow_xi
+    4300494: yellow_dong
+    4300496: yellow_lan
+    4300498: yellow_xia
+    4300500: yellow_dong1
+    4300502: yellow_mei
+    4300504: yellow_qiu
+    4300506: yellow_chun
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93166
+  packageName: 3D Mahjong Pack
+  packageVersion: 1.1
+  assetPath: Assets/Mahjong Pack/Models/Mahjong.fbx
+  uploadId: 240782

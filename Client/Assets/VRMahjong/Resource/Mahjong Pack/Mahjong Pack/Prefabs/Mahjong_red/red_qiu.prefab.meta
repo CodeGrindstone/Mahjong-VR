@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 06f3b76bb4cedff488ab2bde8f59a209
+timeCreated: 1509010036
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93166
+  packageName: 3D Mahjong Pack
+  packageVersion: 1.1
+  assetPath: Assets/Mahjong Pack/Prefabs/Mahjong_red/red_qiu.prefab
+  uploadId: 240782

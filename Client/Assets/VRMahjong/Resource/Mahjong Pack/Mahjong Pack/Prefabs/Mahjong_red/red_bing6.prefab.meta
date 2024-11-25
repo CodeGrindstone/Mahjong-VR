@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 916c8f188dfd77a46b6da5f1cb62d975
+timeCreated: 1509010010
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93166
+  packageName: 3D Mahjong Pack
+  packageVersion: 1.1
+  assetPath: Assets/Mahjong Pack/Prefabs/Mahjong_red/red_bing6.prefab
+  uploadId: 240782

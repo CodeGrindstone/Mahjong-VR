@@ -1,0 +1,6 @@
+This package contains third-party software components governed by the license(s) indicated below:
+
+Component Name: Bebas Neue v2.00 Font
+License Type: SIL Open Font License 1.1
+http://scripts.sil.org/OFL
+http://scripts.sil.org/OFL-FAQ_web

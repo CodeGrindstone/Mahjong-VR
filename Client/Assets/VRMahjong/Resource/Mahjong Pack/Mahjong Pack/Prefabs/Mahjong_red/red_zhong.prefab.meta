@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: df28a5ed8b6d65a4b84407c9eb99a8b2
+timeCreated: 1509010075
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93166
+  packageName: 3D Mahjong Pack
+  packageVersion: 1.1
+  assetPath: Assets/Mahjong Pack/Prefabs/Mahjong_red/red_zhong.prefab
+  uploadId: 240782

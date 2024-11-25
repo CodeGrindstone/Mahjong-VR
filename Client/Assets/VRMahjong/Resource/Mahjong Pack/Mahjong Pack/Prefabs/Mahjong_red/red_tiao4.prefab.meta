@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 0f9ad85f984b8e8468961729b7767e96
+timeCreated: 1509010042
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93166
+  packageName: 3D Mahjong Pack
+  packageVersion: 1.1
+  assetPath: Assets/Mahjong Pack/Prefabs/Mahjong_red/red_tiao4.prefab
+  uploadId: 240782
