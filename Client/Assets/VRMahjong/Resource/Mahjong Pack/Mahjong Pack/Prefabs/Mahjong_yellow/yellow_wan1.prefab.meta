@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e26073e78a1deeb4e8137460bf5daea1
+timeCreated: 1509010165
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93166
+  packageName: 3D Mahjong Pack
+  packageVersion: 1.1
+  assetPath: Assets/Mahjong Pack/Prefabs/Mahjong_yellow/yellow_wan1.prefab
+  uploadId: 240782

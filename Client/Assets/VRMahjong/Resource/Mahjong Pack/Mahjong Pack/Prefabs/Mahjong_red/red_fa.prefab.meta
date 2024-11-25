@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 2dd9d961b58cf3446aa0aa3ab0613a4a
+timeCreated: 1509010026
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93166
+  packageName: 3D Mahjong Pack
+  packageVersion: 1.1
+  assetPath: Assets/Mahjong Pack/Prefabs/Mahjong_red/red_fa.prefab
+  uploadId: 240782

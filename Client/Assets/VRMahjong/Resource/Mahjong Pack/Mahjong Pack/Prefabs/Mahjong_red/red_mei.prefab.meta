@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 004e73c1130530b4782e34682cb7eae2
+timeCreated: 1509010032
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93166
+  packageName: 3D Mahjong Pack
+  packageVersion: 1.1
+  assetPath: Assets/Mahjong Pack/Prefabs/Mahjong_red/red_mei.prefab
+  uploadId: 240782

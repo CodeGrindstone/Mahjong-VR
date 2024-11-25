@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b76cebe11551b7c43ae00c1ba46518f6
+timeCreated: 1509010055
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93166
+  packageName: 3D Mahjong Pack
+  packageVersion: 1.1
+  assetPath: Assets/Mahjong Pack/Prefabs/Mahjong_red/red_wan3.prefab
+  uploadId: 240782

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f4151ce5b3316c64ea07a15ad0ba2dcc
+timeCreated: 1509010111
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93166
+  packageName: 3D Mahjong Pack
+  packageVersion: 1.1
+  assetPath: Assets/Mahjong Pack/Prefabs/Mahjong_yellow/yellow_bai.prefab
+  uploadId: 240782

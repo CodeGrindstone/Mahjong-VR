@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 9ca6c813d28b3c642b66b8ca68ab4a47
+timeCreated: 1509010180
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93166
+  packageName: 3D Mahjong Pack
+  packageVersion: 1.1
+  assetPath: Assets/Mahjong Pack/Prefabs/Mahjong_yellow/yellow_xi.prefab
+  uploadId: 240782

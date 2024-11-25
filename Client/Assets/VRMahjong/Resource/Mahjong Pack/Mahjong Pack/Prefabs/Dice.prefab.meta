@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 8b25b205e163e5343ad97038381dd8fe
+timeCreated: 1509010196
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 93166
+  packageName: 3D Mahjong Pack
+  packageVersion: 1.1
+  assetPath: Assets/Mahjong Pack/Prefabs/Dice.prefab
+  uploadId: 240782
